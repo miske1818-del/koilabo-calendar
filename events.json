@@ -1,21 +1,21 @@
 {
   "settings": {
- "lineUrl": "https://lin.ee/ZsxnpT5"
+    "lineUrl": "https://lin.ee/ZsxnpT5"
   },
   "events": [
     {
       "id": "event-001",
       "date": "2026-12-19",
       "title": "恋ラボ 恋活・婚活パーティー",
-      "start": "13:00",
-      "end": "未定",
+      "start": "18:00",
+      "end": "20:00",
       "place": "夜カフェ ibuki（岡山市）",
-      "age": "未定",
-      "malePrice": "未定",
-      "femalePrice": "未定",
-      "maleSeats": 10,
-      "femaleSeats": 10,
-      "description": "1対1トーク形式。ご予約はLINEで受付します。"
+      "age": "18〜35歳",
+      "malePrice": 8000,
+      "femalePrice": 4000,
+      "capacity": 20,
+      "remainingSeats": 20,
+      "description": "立食形式・ビュッフェ＋飲み放題付き。ご予約はLINEで受付します。"
     }
   ]
 }
